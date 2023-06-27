@@ -2,7 +2,7 @@
 
 ## Ailton Santos
 
-Self-healing grid projetct for: 
+Self-healing grid project for: 
 - Fault protection
 - Dynamic control of voltage
 - Weather data integration
