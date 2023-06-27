@@ -2,4 +2,9 @@
 
 ## Ailton Santos
 
-Smart Grids are composed of a series of automations and technologies that aim, mainly, to provide security, convenience and sustainability
+Self-healing grid projetct for: 
+- Fault protection
+- Dynamic control of voltage
+- Weather data integration
+- Centralized capacitor bank control
+- Automated feeder reconfiguration
