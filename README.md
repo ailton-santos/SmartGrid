@@ -1,4 +1,4 @@
-# Smart Grid
+# Smart Grid Project
 
 ## Ailton Santos
 
